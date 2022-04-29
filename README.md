@@ -8,4 +8,4 @@ Features:
 - events
 - score
 
-App is available on next link: https://dokuchaev.000webhostapp.com/
+Game is available on next link: https://ddokuchaev.github.io/square-game/
